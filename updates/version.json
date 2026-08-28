@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.1.4",
-  "url": "https://github.com/123mark007/motonav-updates/releases/download/v1.1.4/motonav-arm64-v1.1.4.apk;https://ghfast.top/https://github.com/123mark007/motonav-updates/releases/download/v1.1.4/motonav-arm64-v1.1.4.apk;https://gh-proxy.com/https://github.com/123mark007/motonav-updates/releases/download/v1.1.4/motonav-arm64-v1.1.4.apk",
-  "notes": "v1.1.4 下载进度小窗：实时进度+暂停/继续+后台通知栏控制",
+  "versionCode": 7,
+  "versionName": "1.1.5",
+  "url": "https://github.com/123mark007/motonav-updates/releases/download/v1.1.5/motonav-arm64-v1.1.5.apk;https://ghfast.top/https://github.com/123mark007/motonav-updates/releases/download/v1.1.5/motonav-arm64-v1.1.5.apk;https://gh-proxy.com/https://github.com/123mark007/motonav-updates/releases/download/v1.1.5/motonav-arm64-v1.1.5.apk",
+  "notes": "v1.1.5 车辆管理+上海限行+定位箭头+版本号显示",
   "force": false
 }
