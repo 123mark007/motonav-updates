@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.2",
-  "url": "https://github.com/123mark007/motonav-updates/releases/download/v1.1.2/motonav-arm64-v1.1.2.apk;https://ghfast.top/https://github.com/123mark007/motonav-updates/releases/download/v1.1.2/motonav-arm64-v1.1.2.apk;https://gh-proxy.com/https://github.com/123mark007/motonav-updates/releases/download/v1.1.2/motonav-arm64-v1.1.2.apk",
-  "notes": "v1.1.2 内嵌下载器 + 多镜像源（解决下载超时）",
+  "versionCode": 5,
+  "versionName": "1.1.3",
+  "url": "https://github.com/123mark007/motonav-updates/releases/download/v1.1.3/motonav-arm64-v1.1.3.apk;https://ghfast.top/https://github.com/123mark007/motonav-updates/releases/download/v1.1.3/motonav-arm64-v1.1.3.apk;https://gh-proxy.com/https://github.com/123mark007/motonav-updates/releases/download/v1.1.3/motonav-arm64-v1.1.3.apk",
+  "notes": "v1.1.3 完整更新闭环验证：弹窗→内嵌下载→安装",
   "force": false
 }
